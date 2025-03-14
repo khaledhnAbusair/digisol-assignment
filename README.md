@@ -2,11 +2,6 @@
 
 # Digisol Assignment - Expedia Package Search Application
 
-This is a Spring Boot web application that allows users to search for package offers using either the **Expedia API** or **mock data**. The application includes:
-- A simple **single-page frontend** built with HTML, Bootstrap, and JavaScript.
-- A **Spring Boot backend** using FeignClient for external API communication.
-
----
 
 ## ✨ Features
 - Search for package offers by entering an **origin city** and **destination city**.
