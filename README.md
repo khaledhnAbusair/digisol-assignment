@@ -64,7 +64,7 @@ app.api.offers-endpoint=/api/offers
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:khaledhnAbusair/digisol-assignment.git
    cd digisol-assignment
    ```
 
